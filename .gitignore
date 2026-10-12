@@ -1,0 +1,9 @@
+# Ignore local environment settings 
+local.env 
+
+# Ignore ordinary log files 
+*.log
+
+# Keep the important log file tracked 
+!important.log
+
