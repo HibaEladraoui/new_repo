@@ -25,3 +25,7 @@ print("Hello, Git and GitHub!")
 [Git Documentation](https://git-scm.com/doc)
 
 ![Project Banner](assets/project-banner.svg)
+
+## GitHub Synchronization Practice
+
+This section was added directly on GitHub to practice fetching and pulling remote changes.
