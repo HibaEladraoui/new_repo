@@ -28,3 +28,9 @@ section h2 {
   margin-top: 0;
   color: #333;
 }
+
+footer {
+  text-align: center;
+  padding: 16px;
+  color: #555;
+}
