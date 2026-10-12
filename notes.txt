@@ -1,2 +1,2 @@
 Personal development notes.
-
+Git practice: learning commits, branches, merges, and selective staging.
